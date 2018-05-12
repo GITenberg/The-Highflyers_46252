@@ -1,0 +1,27 @@
+_repo: The-Highflyers_46252
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46252-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kelland, Clarence Budington
+    alias: Kelland, Clarence B.
+    birthdate: 1881
+    deathdate: 1964
+    gutenberg_agent_id: '4987'
+    url: http://www.gutenberg.org/2009/agents/4987
+description: ''
+gutenberg_issued: '2014-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46252'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PS'
+title: The Highflyers
+url: http://www.gutenberg.org/ebooks/46252
